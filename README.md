@@ -6,9 +6,10 @@ and standard deviation readings of each observation by activity and subject, sim
 clone this repo, cd into the main directory, and type the following commands:
 
 source run_analysis.R
+
 run_analysis()
 
 The data is already in place and unzipped, within the directory structure. If you 
 wish, you can download it fresh by simply uncommenting the first two lines of code 
 in the run_analysis.R file, resourcing it and rerunning it. This will make the 
-script download the zip file and unzip it, overwriting the exiasting data.
+script download the zip file and unzip it, overwriting the existing data.
