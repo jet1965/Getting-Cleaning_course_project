@@ -12,7 +12,7 @@
 6. laying
 
 ## Subject
-### An integer between 1 and 30 representing 30 anonymos test subjects.
+### An integer between 1 and 30 representing 30 anonymous test subjects.
 
 ## Mean Measurement Variables
 ### 79 means of mean and standard deviation variables grouped by activity and subject ID. They are:
