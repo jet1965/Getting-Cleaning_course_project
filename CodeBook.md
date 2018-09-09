@@ -1,9 +1,9 @@
-###H3 This file contains information regarding the tidy dataset file, Tidy_dataset.txt, produced by the R script, run_analysis.R.
+### This file contains information regarding the tidy dataset file, Tidy_dataset.txt, produced by the R script, run_analysis.R.
 
-##H2 ID Variables:
+## ID Variables:
 
-##H2 Activity
-###H3 An integer between 1 and 6 describing 
+## Activity
+### An integer between 1 and 6 describing 
 1 - walking
 2 - walking upstairs
 3 - walking downstairs
@@ -11,11 +11,11 @@
 5 - standing
 6 - laying
 
-##H2 Subject
-###H3 An integer between 1 and 30 representing 30 anonymos test subjects.
+## Subject
+### An integer between 1 and 30 representing 30 anonymos test subjects.
 
-##H2 Mean Measurement Variables
-###H3 79 means of mean and standard deviation variables grouped by activity and subject ID. They are:
+## Mean Measurement Variables
+### 79 means of mean and standard deviation variables grouped by activity and subject ID. They are:
 
 "tBodyAcc-mean()-X" 
 "tBodyAcc-mean()-Y" 
