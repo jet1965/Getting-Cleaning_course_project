@@ -6,6 +6,7 @@ and standard deviation readings of each observation by activity and subject, sim
 clone this repo, cd into the main directory, and type the following commands:
 
 source run_analysis.R
+
 run_analysis()
 
 The data is already in place and unzipped, within the directory structure. If you 
